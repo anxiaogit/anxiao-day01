@@ -1,6 +1,0 @@
-// 开发环境
-anxiao-config-dev.properties
-// 测试环境
-anxiao-config-test.properties
-// 生产环境
-anxiao-config-pro.properties
